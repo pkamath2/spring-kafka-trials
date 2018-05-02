@@ -1,7 +1,7 @@
-package com.pk.kafka.FXTrends.job;
+package com.pk.kafka.spring_kafka_trials.job;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.pk.kafka.FXTrends.bo.Rate;
+import com.pk.kafka.spring_kafka_trials.bo.Rate;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;

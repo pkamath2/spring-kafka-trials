@@ -1,8 +1,7 @@
-package com.pk.kafka.FXTrends;
+package com.pk.kafka.spring_kafka_trials;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.kafka.annotation.EnableKafkaStreams;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication

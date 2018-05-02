@@ -1,4 +1,4 @@
-package com.pk.kafka.FXTrends;
+package com.pk.kafka.spring_kafka_trials;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

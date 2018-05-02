@@ -1,4 +1,4 @@
-package com.pk.kafka.FXTrends.bo;
+package com.pk.kafka.spring_kafka_trials.bo;
 
 import com.fasterxml.jackson.databind.JsonNode;
 

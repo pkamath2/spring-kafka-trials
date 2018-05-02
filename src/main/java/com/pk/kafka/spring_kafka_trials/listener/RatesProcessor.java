@@ -1,6 +1,6 @@
-package com.pk.kafka.FXTrends.listener;
+package com.pk.kafka.spring_kafka_trials.listener;
 
-import com.pk.kafka.FXTrends.bo.Rate;
+import com.pk.kafka.spring_kafka_trials.bo.Rate;
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.Consumed;
 import org.apache.kafka.streams.KeyValue;
